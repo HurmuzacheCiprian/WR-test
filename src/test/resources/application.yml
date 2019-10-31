@@ -1,0 +1,8 @@
+application:
+  rewards:
+    points:
+      video-membership: 5
+      book-membership: 5
+    videos:
+      name1: "Comprehensive First Aid Training"
+
